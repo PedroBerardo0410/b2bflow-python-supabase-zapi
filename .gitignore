@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Variaveis de ambiente
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Distribuicao
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
