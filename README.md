@@ -153,4 +153,4 @@ python main.py
 
 ## Autor
 
-Pedro Guilherme Trindade Berardo — Desafio b2bflow 2024
+Pedro Guilherme Trindade Berardo — Desafio b2bflow 2026
